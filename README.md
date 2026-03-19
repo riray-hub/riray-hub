@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Banner — save the SVG above as banner.svg and upload to your repo, or use an image host -->
-<!-- Alternatively replace with your own custom image: -->
-
 ![Banner](./banner.svg)
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=riray-hub.riray-hub&color=7F77DD&labelColor=0f0f1a)](https://github.com/riray-hub)
@@ -32,11 +29,23 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 
 > **Status:** `[████████░░] actively shipping`
 
-| Project                                                  | Type          | Status       | Description                                              |
-| :------------------------------------------------------- | :------------ | :----------- | :------------------------------------------------------- |
-| 🐧 **[Shift OS](https://github.com/riray-hub/Shift-OS)** | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
-| 🎮 **Pocket Officer**                                    | 3D Platformer | 🟡 In Dev    | Godot Engine · atmospheric 3D platformer                 |
-| 🔌 **Godot Plugin**                                      | Tool          | ✅ Published | Auto-removes comments from GDScript code                 |
+| Project                                                                                               | Type          | Status       | Description                                              |
+| :---------------------------------------------------------------------------------------------------- | :------------ | :----------- | :------------------------------------------------------- |
+| 🐧 **[Shift OS](https://github.com/riray-hub/Shift-OS)** · [🌐 website](https://shift-os.netlify.app) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
+| 🎮 **Pocket Officer**                                                                                 | 3D Platformer | 🟡 In Dev    | Godot Engine · atmospheric 3D platformer                 |
+| 🔌 **Godot Plugin**                                                                                   | Tool          | ✅ Published | Auto-removes comments from GDScript code                 |
+
+---
+
+## 🌱 Currently learning
+
+```bash
+$ apt list --learning
+> Advanced 3D game mechanics in Godot Engine
+> Linux system architecture & ISO customization
+> Cost-effective IoT integrations
+> Web development (HTML · CSS · JS)
+```
 
 ---
 
@@ -69,6 +78,21 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## ⏱️ Wakatime stats
+
+<div align="center">
+
+<!--
+  Setup: daftar di https://wakatime.com, install ekstensinya di VS Code/editor kamu,
+  lalu ganti YOUR_WAKATIME_USERNAME di bawah dengan username Wakatime kamu.
+-->
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiRay&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+
+</div>
 
 ---
 
@@ -122,9 +146,21 @@ I'm always down to talk game dev, Linux ricing, open-source, or creative writing
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/kharisdestian862@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharisdestian862@gmail.com)
+[![Email](https://img.shields.io/badge/maulanakharis123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulanakharis123@gmail.com)
 [![Instagram](https://img.shields.io/badge/@kharis_destian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kharis_destian)
 [![TikTok](https://img.shields.io/badge/@riray0412-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@riray0412)
+[![Shift OS](https://img.shields.io/badge/Shift%20OS-Website-5DCAA5?style=for-the-badge&logo=linux&logoColor=white)](https://shift-os.netlify.app)
+
+</div>
+
+---
+
+## ☕ Support my work
+
+<div align="left">
+
+[![Saweria](https://img.shields.io/badge/Saweria-Support%20me-F4A724?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/RiRay)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/riray)
 
 </div>
 
