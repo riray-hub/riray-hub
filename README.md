@@ -175,6 +175,47 @@ Currently on: Godot Engine 4 + Cubic + Adobe Illustrator
 
 ---
 
+## 🗺️ Visitor map
+
+<div align="center">
+
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=nJDyG_qRWtel_Uox0vWRYca0ncGdMrf-QeD7r5xnn4w&cl=ffffff)](https://clustrmaps.com/site/1c9i7)
+
+</div>
+
+---
+
+## ✍️ Commit haiku
+
+_A new haiku every week — thoughts from behind the keyboard._
+
+```
+distro boots clean now
+one less service in the logs
+silence is power
+```
+
+> _Week of Mar 19, 2026 — on shipping Shift OS v26.03.1_
+
+---
+
+## 🗓️ Personal roadmap
+
+> Not just a project plan — this is where I'm going.
+
+| Timeline    | Goal                                  | Status         |
+| :---------- | :------------------------------------ | :------------- |
+| **Q1 2026** | Ship Shift OS v26.03.1 publicly       | ✅ Done        |
+| **Q2 2026** | Launch Shift OS website & community   | 🟢 Active      |
+| **Q3 2026** | Release Pocket Officer demo           | 🟡 In Progress |
+| **Q3 2026** | Shift OS v26.09 "Serenity"            | 🔵 Planned     |
+| **Q4 2026** | Finish writing my novel (first draft) | 🔵 Planned     |
+| **2027**    | Graduate from UCIC                    | 🔵 Planned     |
+| **2027**    | Shift OS ARM support + App Center     | 🔵 Planned     |
+| **2027+**   | Ship a commercial game                | 🌙 Dream       |
+
+---
+
 ## 📫 Let's connect
 
 I'm always down to talk game dev, Linux ricing, open-source, or creative writing!
