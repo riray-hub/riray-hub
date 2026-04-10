@@ -31,7 +31,7 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 
 | Project                                                                                               | Type          | Status       | Description                                              |
 | :---------------------------------------------------------------------------------------------------- | :------------ | :----------- | :------------------------------------------------------- |
-| 🐧 **[Shift OS](https://github.com/riray-hub/Shift-OS)** · [🌐 website](https://shift-os.netlify.app) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
+| 🐧 **[Shift OS](https://github.com/riray-hub/Shift-OS)** · [🌐 website](https://shiftos.vercel.app/) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
 | 🎮 **Pocket Officer**                                                                                 | 3D Platformer | 🟡 In Dev    | Godot Engine · atmospheric 3D platformer                 |
 | 🔌 **Godot Plugin**                                                                                   | Tool          | ✅ Published | Auto-removes comments from GDScript code                 |
 
