@@ -141,8 +141,8 @@ Tools   : Godot Engine 4 · Cubic · Adobe Illustrator
 
 ## Support
 
-[![Saweria](https://img.shields.io/badge/Saweria-F4A724?style=flat-square&logo=ko-fi&logoColor=white)](https://saweria.co/YOUR_SAWERIA_USERNAME)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_USERNAME)
+[![Saweria](https://img.shields.io/badge/Saweria-F4A724?style=flat-square&logo=ko-fi&logoColor=white)](https://saweria.co/RiRay)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/riray)
 
 ---
 
